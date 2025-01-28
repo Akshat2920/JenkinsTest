@@ -1,6 +1,6 @@
 #include<stdio.h>
 
 int main(){
-printf("Using WebHooks\n");
+printf("Using WebHook\n");
 return 0;
 }
